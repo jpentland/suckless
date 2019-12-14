@@ -1,3 +1,7 @@
 [submodule "st"]
 	path = st
 	url = git@github.com:jpentland/st.git
+[submodule "dmenu"]
+	path = dmenu
+	url = git@github.com:jpentland/dmenu.git
+	branch = jpe
