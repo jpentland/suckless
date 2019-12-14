@@ -13,3 +13,4 @@
 [submodule "surf"]
 	path = surf
 	url = git@github.com:jpentland/surf.git
+	branch = jpe
