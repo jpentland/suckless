@@ -10,3 +10,6 @@
 	path = tabbed
 	url = git@github.com:jpentland/tabbed.git
 	branch = jpe
+[submodule "surf"]
+	path = surf
+	url = git@github.com:jpentland/surf.git
