@@ -6,3 +6,7 @@
 	path = dmenu
 	url = git@github.com:jpentland/dmenu.git
 	branch = jpe
+[submodule "tabbed"]
+	path = tabbed
+	url = git@github.com:jpentland/tabbed.git
+	branch = jpe
